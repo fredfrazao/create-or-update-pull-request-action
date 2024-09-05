@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@octokit/core": "^3.5.1",
+    "@octokit/core": "^4.0.4",
     "execa": "^2.0.4"
   },
   "devDependencies": {
