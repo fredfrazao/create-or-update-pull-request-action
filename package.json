@@ -16,7 +16,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@octokit/core": "^3.5.1",
-    "execa": "^2.0.4"
+    "execa": "^9.6.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.5"
